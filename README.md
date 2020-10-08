@@ -1,1 +1,1 @@
-# RGNN
+# RGNN EEG emotion classifier
